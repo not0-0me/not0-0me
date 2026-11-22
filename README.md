@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ## 🐍 My GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/not0-0me/not0-0me/output/github-snake.svg)
+
+![Dark Snake animation](https://raw.githubusercontent.com/not0-0me/not0-0me/output/github-snake-dark.svg)
